@@ -1,3 +1,5 @@
+package Bai1_Rectngle;
+
 public class Bai1_Rectangular {
     public static void main(String[] args) {
         int n=5;
