@@ -2,31 +2,88 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="822432d7-4a7d-408d-95de-ebf65f79dc52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Buoi1/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buoi1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Buoi1/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buoi1/out/production/Buoi1/Bai1_Rectangular.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buoi1/src/Bai1_Rectangular.java" beforeDir="false" afterPath="$PROJECT_DIR$/Buoi1/src/Bai1_Rectngle/Bai1_Rectangular.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buoi1/src/Bai2_HappyNewYears.java" beforeDir="false" afterPath="$PROJECT_DIR$/Buoi1/src/Bai2_HappyNewYears/Bai2_HappyNewYears.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code anh Huan/Buổi 2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code anh Huan/Buổi 2/.idea/aws.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code anh Huan/Buổi 2/.idea/dbnavigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code anh Huan/Buổi 2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code anh Huan/Buổi 2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code anh Huan/Buổi 2/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code anh Huan/Buổi 2/demo-b1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code anh Huan/Buổi 2/out/production/demo-b1/bai1/RunMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code anh Huan/Buổi 2/out/production/demo-b1/bai2/RunMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code anh Huan/Buổi 2/out/production/demo-b1/bai2/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code anh Huan/Buổi 2/out/production/demo-b1/bai3/RunMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code anh Huan/Buổi 2/out/production/demo-b1/bai4/RunMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code anh Huan/Buổi 2/out/production/demo-b1/bai5/RunMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code anh Huan/Buổi 2/src/bai1/RunMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code anh Huan/Buổi 2/src/bai2/RunMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code anh Huan/Buổi 2/src/bai2/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code anh Huan/Buổi 2/src/bai3/RunMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code anh Huan/Buổi 2/src/bai4/RunMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code anh Huan/Buổi 2/src/bai5/RunMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi1/Buoi1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi1/out/production/Buoi1/Bai1_Rectngle/Bai1_Rectangular.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi1/out/production/Buoi1/Bai2_HappyNewYears.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi1/src/Bai1_Rectngle/Bai1_Rectangular.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi1/src/Bai2_HappyNewYears/Bai2_HappyNewYears.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi2/Buoi2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi2/Java HIT 2021_Buổi 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi2/out/production/Buoi2/Bai1_MaxAndMin/RunMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi2/src/Bai1_MaxAndMin/RunMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi2/src/Bai2_Selection_Choose/RunMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi2/src/Bai3_Kt/RunMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi2/src/Bai4/RunMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi2/src/Bai4_WoldString/RunMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buoi3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buoi3/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buoi3/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buoi3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buoi3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buoi3/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buoi3/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buoi3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buoi3/Buoi3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buoi3/src/demo1/RunMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buoi3/src/demo2/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buoi3/src/demo2/RunMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buoi3/src/demo3/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buoi3/src/demo3/RunMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 2/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 2/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 2/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 2/demo-b1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 2/out/production/demo-b1/bai1/RunMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 2/out/production/demo-b1/bai2/RunMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 2/out/production/demo-b1/bai2/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 2/out/production/demo-b1/bai3/RunMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 2/out/production/demo-b1/bai4/RunMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 2/out/production/demo-b1/bai5/RunMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 2/src/bai1/RunMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 2/src/bai2/RunMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 2/src/bai2/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 2/src/bai3/RunMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 2/src/bai4/RunMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 2/src/bai5/RunMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 3/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 3/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 3/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 3/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 3/Buoi3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 3/out/production/Buoi3/demo1/RunMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 3/out/production/Buoi3/demo2/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 3/out/production/Buoi3/demo2/RunMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 3/out/production/Buoi3/demo3/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 3/out/production/Buoi3/demo3/RunMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 3/src/demo1/RunMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 3/src/demo2/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 3/src/demo2/RunMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 3/src/demo3/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code anh Huan/JAVA_HIT12/Buổi 3/src/demo3/RunMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaiLieu/Buoi1_JAVA.pptx.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaiLieu/Java_hit_buoi2.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Buoi2/Bai1_MaxAndMin/RunMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Buoi2/Bai1_MaxAndMin/RunMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Buoi2/Bai2_Selection_Choose/RunMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Buoi2/Bai2_Selection_Choose/RunMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Buoi2/Bai3_Kt/RunMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Buoi2/Bai3_Kt/RunMain.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +121,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercise/Buoi3" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
@@ -72,7 +129,7 @@
       <recent name="nhap" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RunMain (4)">
+  <component name="RunManager" selected="Application.RunMain (2)">
     <configuration name="RunMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bai2_Selection_Choose.RunMain" />
       <module name="Buoi2" />
@@ -125,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nhap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nhap.nhap1" />
+    <configuration name="RunMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai1_MaxAndMin.RunMain" />
       <module name="Buoi2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nhap.*" />
+          <option name="PATTERN" value="Bai1_MaxAndMin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,26 +195,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RunMain (4)" />
-        <item itemvalue="Application.RunMain (3)" />
         <item itemvalue="Application.RunMain (2)" />
+        <item itemvalue="Application.RunMain (3)" />
+        <item itemvalue="Application.RunMain" />
         <item itemvalue="Application.RunMain (1)" />
-        <item itemvalue="Application.nhap1" />
+        <item itemvalue="Application.RunMain (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -173,6 +217,14 @@
       <workItem from="1634969570074" duration="20151000" />
       <workItem from="1634997505226" duration="1746000" />
       <workItem from="1634999285594" duration="6351000" />
+      <workItem from="1635010932383" duration="5647000" />
+      <workItem from="1635064177499" duration="2000" />
+      <workItem from="1635081762612" duration="5494000" />
+      <workItem from="1635135581975" duration="86000" />
+      <workItem from="1635173331394" duration="664000" />
+      <workItem from="1635491315997" duration="279000" />
+      <workItem from="1635499227215" duration="43000" />
+      <workItem from="1635499564828" duration="230000" />
     </task>
     <servers />
   </component>

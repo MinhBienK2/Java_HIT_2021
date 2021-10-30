@@ -128,7 +128,7 @@ public class RunMain {
     // delete element vi tri k
     private static void deleteElement(int[] a, int k, int n) {
         int[] newA = Arrays.copyOf(a,n);
-        for (int i = k-1; i < n; i++) {
+        for (int i = k-1; i < n-1; i++) {
             newA[i] = newA[i + 1];
         }
         n--;
