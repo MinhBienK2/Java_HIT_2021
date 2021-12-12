@@ -7,25 +7,28 @@ public class Book extends Document{
     private int numberOfPage;
     private String author;
 
-    public void nhap(){
-        System.out.print("Enter id : ");
-        id = sc.nextInt();
-        sc.nextLine();
-        System.out.print("Enter name :");
-        name = sc.nextLine();
-        System.out.print("Enter publisher :");
-        publisher = sc.nextLine();
-        System.out.print("Enter price : ");
-        price = sc.nextDouble();
+    public void input(){
+        super.input();
         System.out.print("Enter so trang :");
         numberOfPage = sc.nextInt();
+        sc.nextLine();
         System.out.print("Enter Author : ");
         author = sc.nextLine();
-        sc.nextLine();
     }
 
-    public void xuat() {
-        System.out.printf("%-20d%-20s%-20s%-20f%-20d%-20s",id,name,publisher,price,numberOfPage,author);
+    public void output() {
+        super.output();
+        System.out.printf("%-20d%-20s\n",numberOfPage,author);
+    }
+
+    @Override
+    public void edit(){
+        super.edit();
+        System.out.print("Enter so trang :");
+        numberOfPage = sc.nextInt();
+        sc.nextLine();
+        System.out.print("Enter Author : ");
+        author = sc.nextLine();
     }
 
     public Book() {
